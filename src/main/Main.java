@@ -18,6 +18,7 @@ public class Main {
 		Merge newMerge = new Merge(bufferSize, methodType, "RW",numberOfd);
 		newMerge.mergeFirstPhase(myList);
 
+		
 	}
 
 }
